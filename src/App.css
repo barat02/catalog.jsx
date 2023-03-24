@@ -1,0 +1,22 @@
+.catalogs{
+  width: 1280px;
+  display: flex;
+  background-color: #5C6458;;
+  justify-content: space-evenly ;
+  padding: 30px;
+}
+
+.catalog_p{
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Noto Serif HK';
+  font-style: normal;
+ 
+
+  line-height: 29px;
+ 
+
+
+  color: #FFFFFF;
+
+}
